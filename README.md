@@ -75,9 +75,22 @@ git checkout master
 git merge NAME-OF-BRANCH
 
 
+ git commit -a -m "update message"
+
+
+$ git pull origin branchname
+
+git remote update
+git fetch 
+git checkout --track origin/<BRANCH-NAME>
+
 
 https://docs.gitlab.com/ce/gitlab-basics/start-using-git.html
 
 https://stackoverflow.com/questions/32125514/how-to-create-and-commit-a-branch-in-gitlab
 
 https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add
+
+https://stackoverflow.com/questions/5989592/git-cannot-checkout-branch-error-pathspec-did-not-match-any-files-kn
+
+
