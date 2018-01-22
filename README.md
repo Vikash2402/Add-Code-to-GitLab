@@ -1,5 +1,7 @@
 # Add-Code-to-GitLab
 
+Go to your local folder and open git bash or in git bash move to the respective folder where you want to update
+
 Check if Git has already been installed 
 Git is usually preinstalled on Mac and Linux.
 
